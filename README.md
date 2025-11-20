@@ -1,4 +1,4 @@
-![Banner](Screenshot 2025-11-20 222443.png)
+![Banner](screenshot.png)
 # 🎮 Unity State & State Machine Pattern  
 A clean, simple, and extensible implementation of the **State Pattern** and **State Machine** for Unity.
 
