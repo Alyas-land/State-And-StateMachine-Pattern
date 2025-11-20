@@ -1,3 +1,4 @@
+![Banner](alyas_glitch.gif)
 # 🎮 Unity State & State Machine Pattern  
 A clean, simple, and extensible implementation of the **State Pattern** and **State Machine** for Unity.
 
